@@ -1,1 +1,1 @@
-# my-crappy-shell-scripts
+# my crappy shell scripts
